@@ -5,7 +5,7 @@ const minsEl = document.getElementById("mins");
 const secondsEl = document.getElementById("seconds");
 const Title = document.getElementById("timer-title")
 
-const newYears = "March 29, 2022 20:50:00";
+const newYears = "March 30, 2022 20:50:00";
 
 function countDown(){
     const newYearsDate = new Date(newYears);
